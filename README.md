@@ -7,5 +7,5 @@ Versions
 
 Authors
 * leslie@aisingapore.org
-* williamthji@aisingapore.org
+* wtjhi@aisingapore.org
 
